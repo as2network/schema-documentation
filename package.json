@@ -1,0 +1,20 @@
+{
+  "name": "@as2network/schema-documentation",
+  "version": "1.0.0",
+ "description": "edi schema documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as2network/schema-documentation.git"
+  },
+  "keywords": [],
+  "author": "FreightTrust and Clearing Corporation",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/as2network/schema-documentation/issues"
+  },
+  "homepage": "https://github.com/as2network/schema-documentation#readme"
+}
